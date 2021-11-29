@@ -1,0 +1,26 @@
+amespace ConsoleApp18
+{
+    public class Class1
+    {
+        public int name
+        {
+            get => default(int);
+            set
+            {
+            }
+        }
+
+        public int x
+        {
+            get => default(int);
+            set
+            {
+            }
+        }
+
+        public void jumping()
+        {
+            throw new System.NotImplementedException();
+        }
+    }
+}
